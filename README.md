@@ -4,11 +4,4 @@
 -El espacio en disco (df -h).
 -Memoria libre del sistema.
 -Usuarios conectados.
-
-
-
-
-```
-date
-clear
-```
+-Insertar imagen de que el script ha sido ejecutado con éxito. 
